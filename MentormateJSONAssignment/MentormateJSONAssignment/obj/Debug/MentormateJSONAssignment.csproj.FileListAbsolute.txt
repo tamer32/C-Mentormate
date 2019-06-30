@@ -1,0 +1,10 @@
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\bin\Debug\MentormateJSONAssignment.exe.config
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\bin\Debug\MentormateJSONAssignment.exe
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\bin\Debug\MentormateJSONAssignment.pdb
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\obj\Debug\MentormateJSONAssignment.csprojAssemblyReference.cache
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\obj\Debug\MentormateJSONAssignment.csproj.CoreCompileInputs.cache
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\obj\Debug\MentormateJSONAssignment.csproj.CopyComplete
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\obj\Debug\MentormateJSONAssignment.exe
+C:\Users\User\VSWorkspace\MentormateJSONAssignment\MentormateJSONAssignment\obj\Debug\MentormateJSONAssignment.pdb

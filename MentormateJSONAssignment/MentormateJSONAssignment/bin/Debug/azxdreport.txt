@@ -1,0 +1,5 @@
+Name,Rating
+Luka Doncic,87
+Thomas Welsh,67
+Trae Young,84
+Jayson Tatum,84

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentormateJSONAssignment", "MentormateJSONAssignment\MentormateJSONAssignment.csproj", "{0678CF9D-A58A-402C-8270-DB6E3A24C87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0678CF9D-A58A-402C-8270-DB6E3A24C87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0678CF9D-A58A-402C-8270-DB6E3A24C87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0678CF9D-A58A-402C-8270-DB6E3A24C87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0678CF9D-A58A-402C-8270-DB6E3A24C87B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34ACF47E-4347-4E6D-A00F-05B3705708CC}
+	EndGlobalSection
+EndGlobal
